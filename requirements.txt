@@ -1,0 +1,51 @@
+General Requirements
+- Custom fonts using Google fonts
+- text and bg colors
+
+Page responsivenetss
+- mobile, tablets, and desktop
+
+Reminders
+- All CSS code must be in an external CSS file
+- No <br> elements (page breaks)
+- No inlineor internal CSS code
+- no default web page fonts (Times New Roman)
+- no placeholder text in the page (lorem ipsum)
+- no horizontal scrolls
+- no deadlinks
+- do not create another website other than the required developer
+- do not use templates from other sites
+
+
+Samples
+https://teejaebcalinao.gitlab.io/samson-art-portfolio/index.html
+
+https://gabchoa.github.io/webportfolio/main.html#contact
+
+https://fonts.google.com/
+
+https://coolors.co/4c5760-93a8ac-d7ceb2-a59e8c-66635b
+
+https://www.pexels.com/
+
+
+
+
+
+projects
+
+Gio VA
+Jiao Designs
+
+
+Home
+Skills
+Projects
+Contacts
+
+<div class="container-bg text-light min-vh-100 pt-5">
+				<img class="mt-5 mt-md-0 rounded-circle img-fluid" src="./images/gio/gio.jpeg" width="200">
+			</div>
+		</div>
+
+https://images.pexels.com/photos/12310181/pexels-photo-12310181.jpeg

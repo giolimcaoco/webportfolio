@@ -1,0 +1,86 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body, html{
+	font-family: 'Playfair Display', serif;
+	overflow: auto;
+}
+
+.bg-nav{
+	background-color: #100f12;
+
+}
+
+.navbar-brand{
+	display: inline-block;
+	position: fixed top;	
+}
+
+.rounded-circle{
+	border: 2px solid #c1cbc1;
+}
+
+.background{
+	min-height: 100vh;
+	background-image: url(https://images.pexels.com/photos/924824/pexels-photo-924824.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;	
+}
+
+.container-bg{
+	background-color: rgba(0, 0, 0, .5); 
+	color: rgba(0, 0, 0, 0.5);
+	min-height: 100vh;
+}
+
+.text-color{
+	color: #c1cbc1;
+}
+
+.text-space{
+	letter-spacing: 5px;
+}
+
+.nav-item{
+    text-align: center;
+}
+
+img{
+	background-color: whitesmoke;
+}
+
+.fa{
+  font-size: 50px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+}
+
+.fa:hover{
+  color: #c1cbc1;
+}
+
+i{
+	color: whitesmoke;
+}
+
+.font-size{
+	font-size: 20px;
+}
+
+.jumbotron{
+	background-color: #100f12;
+	color: whitesmoke;
+}
+
+.leadjb{
+	letter-spacing: 3px;
+}
+
+.carousel img{
+	margin: auto;
+}
